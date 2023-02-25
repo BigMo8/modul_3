@@ -26,4 +26,5 @@ for numbers in numbers_chosen:
     squares.append(numbers*numbers)
 print(squares)
 
+print("hello Master!")
 print("Hello Coworker!")
