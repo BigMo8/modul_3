@@ -1,7 +1,8 @@
 lista_zakupow = {
     "warzywniak": ("marchew", "groch"),
     "piekarnia" : ("bułka", "bibułka"),
-    "kiosk":("gazeta")
+    "kiosk":"gazeta",
+    "papiernik":"bibulka"
 }
 print (lista_zakupow)
 
