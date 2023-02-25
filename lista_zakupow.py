@@ -27,6 +27,5 @@ for numbers in numbers_chosen:
 print(squares)
 
 print("hello Master!")
-
 print("Hello Coworker!")
 print("Pozdrwoenia dla mentora")
