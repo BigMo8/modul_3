@@ -11,7 +11,6 @@ for shops,products in lista_zakupow.items():
 print ("łączanie kupuję tam:", len(products), "rzeczy")
 
 numbers_chosen = ([])
-numbers_selected = ([])
 for numbers in range (1,50):
     if numbers % 5 == 0:
             numbers_chosen.append(numbers)
@@ -23,6 +22,6 @@ for numbers in numbers_chosen:
 print(cubes)
 
 squares=[]
-for numbers in numbers_selected:
-    squares.append(number*number)
+for numbers in numbers_chosen:
+    squares.append(numbers*numbers)
 print(squares)
