@@ -1,6 +1,6 @@
 lista_zakupow = {
     "warzywniak": ("marchew", "groch"),
-    "piekarnia" : ("bułka", "bibułka"),
+    "piekarnia" : "bułka",
     "kiosk":"gazeta",
     "papiernik":"bibulka"
 }
